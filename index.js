@@ -114,8 +114,7 @@ class ResistorCapacitorADC {
 
 
 if(module.parent === null) {
-  ResistorCapacitorADC.read(17, { rKOhms: 20, cuF: 1, maxKOhms: 200 }).then(resu
-lt => {
+  ResistorCapacitorADC.read(17, { rKOhms: 20, cuF: 1, maxKOhms: 200 }).then(result => {
     //console.log('results', result);
     console.log('measure time (ms)', result.measuredMs);
     console.log('\test base charge time (ms)', result.baseMs);
