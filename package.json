@@ -1,0 +1,25 @@
+{
+  "name": "resistorcapacitoradc",
+  "version": "1.0.0",
+  "description": "Basic Resistor / Capacitor circit used to simulate Analog over Digital pin.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johntalton/resistorcapacitoradc.git"
+  },
+  "author": "johntalton@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johntalton/resistorcapacitoradc/issues"
+  },
+  "homepage": "https://github.com/johntalton/resistorcapacitoradc#readme",
+  "dependencies": {
+    "onoff": "^3.0.2"
+  },
+  "devDependencies": {
+    "mqtt": "^2.17.0"
+  }
+}
