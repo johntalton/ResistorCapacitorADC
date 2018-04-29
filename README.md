@@ -4,6 +4,8 @@ Basic Resistor / Capacitor circit used to simulate Analog over Digital pin.
 
 [As made popular by this Adafruit post](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi?view=all)
 
+[Wikipedia entry](https://en.wikipedia.org/wiki/RC_circuit)
+
 ### Concept
 
 "[...]the capacitor acts like a bucket and the resistor is like a thin pipe. To fill a bucket up with a very thin pipe takes enough time that you can figure out how wide the pipe is by timing how long it takes to fill the bucket up halfway" - Adafruit
