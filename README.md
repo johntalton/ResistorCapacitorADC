@@ -4,11 +4,10 @@ Basic Resistor / Capacitor circit used to simulate Analog over Digital pin.
 
 [Wikipedia entry](https://en.wikipedia.org/wiki/RC_circuit)
 
-[As made popular by this Adafruit post](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi?view=all)
-
-[and other articals](http://www.doctormonk.com/2013/12/analog-sensors-without-analog-inputs-on.html)
-
-[and another](https://www.raspberrypi-spy.co.uk/2012/08/reading-analogue-sensors-with-one-gpio-pin/)
+As made popular by [this](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi?view=all) Adafruit post
+as well as: [this](http://www.doctormonk.com/2013/12/analog-sensors-without-analog-inputs-on.html),
+[that](https://www.allaboutcircuits.com/projects/design-a-luxmeter-using-a-light-dependent-resistor/) and the
+[other](https://www.raspberrypi-spy.co.uk/2012/08/reading-analogue-sensors-with-one-gpio-pin/)
 
 
 ### Concept
