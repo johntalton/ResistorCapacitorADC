@@ -2,9 +2,14 @@
 
 Basic Resistor / Capacitor circit used to simulate Analog over Digital pin.
 
+[Wikipedia entry](https://en.wikipedia.org/wiki/RC_circuit)
+
 [As made popular by this Adafruit post](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi?view=all)
 
-[Wikipedia entry](https://en.wikipedia.org/wiki/RC_circuit)
+[and other articals](http://www.doctormonk.com/2013/12/analog-sensors-without-analog-inputs-on.html)
+
+[and another](https://www.raspberrypi-spy.co.uk/2012/08/reading-analogue-sensors-with-one-gpio-pin/)
+
 
 ### Concept
 
