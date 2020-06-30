@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/johntalton/resistorcapacitoradc#readme",
   "dependencies": {
-    "onoff": "^3.0.2"
+    "onoff": "^6.0.0"
   },
   "devDependencies": {
     "mqtt": "^2.17.0"
