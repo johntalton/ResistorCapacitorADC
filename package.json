@@ -20,6 +20,6 @@
     "onoff": "^6.0.0"
   },
   "devDependencies": {
-    "mqtt": "^2.17.0"
+    "mqtt": "^4.1.0"
   }
 }
